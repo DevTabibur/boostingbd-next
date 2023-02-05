@@ -1,0 +1,75 @@
+module.exports = {
+  ServiceData: [
+    {
+      img: "/assets/images/event/l3-1.png",
+      title: "Marketing ",
+      variety: [
+        { sub: "Digital Marketing" },
+        { sub: "Facebook Marketing " },
+        { sub: "Google Ads" },
+        { sub: "Sms Marketing" },
+        { sub: "Linkedin marketing " },
+        { sub: "Email Marketing" },
+        { sub: "TVC" },
+        { sub: "News paper ads" },
+        { sub: "Youtube Ads" },
+      ],
+    },
+    {
+      img: "/assets/images/event/l3-1.png",
+      title: "Development",
+      variety: [
+        { sub: "Website Development" },
+        { sub: "Business Website" },
+        { sub: "Garments Website" },
+        { sub: "Education website" },
+        { sub: "Consultancy Website" },
+        { sub: "Man power business Website" },
+        { sub: "Mobile apps development" },
+        { sub: "IOS apps development" },
+        { sub: "Android apps development" },
+      ],
+    },
+    {
+      img: "/assets/images/event/l3-1.png",
+      title: "Ecommerce Solution",
+      variety: [
+        { sub: "Ecommerce Website" },
+        { sub: "Ecommerce apps" },
+        { sub: "POS" },
+        { sub: "Product sourcing" },
+        { sub: "Printing & packaging" },
+        { sub: "Ecommerce Consultancy" },
+      ],
+    },
+
+    {
+      img: "/assets/images/event/l3-1.png",
+      title: "Design ",
+      variety: [
+        { sub: "Creative Design" },
+        { sub: "Logo Design" },
+        { sub: "UI UX design" },
+        { sub: "Facebook Cover design" },
+        { sub: "Facebook post design" },
+        { sub: "Youtube Cover page design" },
+        { sub: "Linkedin cover page design" },
+        { sub: "Google ads Design" },
+        { sub: "Email template Design" },
+      ],
+    },
+    {
+      img: "/assets/images/event/l3-1.png",
+      title: "Domain Hosting",
+      variety: [
+        { sub: ".com Domain" },
+        { sub: "Shared hosting" },
+        { sub: "Reseller Hosting" },
+        { sub: "VPS hosting" },
+        { sub: "Dedicated Hosting" },
+        { sub: "Cloud Hosting" },
+        { sub: "Wordpress Hosting" },
+      ],
+    },
+  ],
+};
